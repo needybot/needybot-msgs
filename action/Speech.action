@@ -1,0 +1,6 @@
+string key
+SpeechParam[] params
+---
+bool success
+---
+bool playing
